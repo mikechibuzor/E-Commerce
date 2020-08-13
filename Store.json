@@ -1,0 +1,181 @@
+{
+  "store": [
+    {
+      "category": {
+        "title": "Frozen Foods",
+        "productsAvailable": [
+          {
+            "productName": "Titus Fish",
+            "amount": 30,
+            "img": "ProductsSamples/titus.jpg",
+            "productId": 1
+          },
+          {
+            "productName": "Panla Fish",
+            "amount": 89,
+            "img": "ProductsSamples/FrozenFoods/panla.jpg",
+            "productId": 2
+          },
+          {
+            "productName": "Sawa Fish",
+            "amount": 119,
+            "img": "ProductsSamples/FrozenFoods/sawa.jpg",
+            "productId": 3
+          },
+          {
+            "productName": "Kote Fish",
+            "amount": 76,
+            "img": "ProductsSamples/FrozenFoods/kote.jpg",
+            "productId": 4
+          },
+          {
+            "productName": "Croaker Fish",
+            "amount": 36,
+            "img": "ProductsSamples/FrozenFoods/croaker.jpg",
+            "productId": 5
+          },
+          {
+            "productName": "Cat Fish",
+            "amount": 16,
+            "img": "ProductsSamples/FrozenFoods/croaker.jpg",
+            "productId": 6
+          },
+          {
+            "productName": "Turkey",
+            "amount": 36,
+            "img": "ProductsSamples/FrozenFoods/turkey.jpg",
+            "productId": 7
+          },
+          {
+            "productName": "Chicken",
+            "amount": 56,
+            "img": "ProductsSamples/FrozenFoods/chicken.jpg",
+            "productId": 8
+          }
+        ]
+      },
+      "categoryImg": "Products/FrozenFoods.jpg",
+      "categoryId": 1
+    },
+    {
+      "category": {
+        "title": "Grains",
+        "productsAvailable": [
+          {
+            "productName": "Rice",
+            "amount": 66,
+            "img": "ProductsSamples/Grains/rice.jpg",
+            "productId": 1
+          },
+          {
+            "productName": "Beans",
+            "amount": 82,
+            "img": "ProductsSamples/Grains/beans.jpg",
+            "productId": 2
+          },
+          {
+            "productName": "Garri",
+            "amount": 122,
+            "img": "ProductsSamples/Grains/garri.jpg",
+            "productId": 3
+          }
+        ]
+      },
+      "categoryImg": "Products/grains.jpg",
+      "categoryId": 2
+    },
+    {
+      "category": {
+        "title": "Ingredients and Spices",
+        "productsAvailable": [
+          {
+            "productName": "Onions",
+            "amount": 330,
+            "img": "ProductsSamples/onions.jpg",
+            "productId": 1
+          },
+          {
+            "productName": "Red Oil",
+            "amount": 230,
+            "img": "ProductsSamples/redoil.jpg",
+            "productId": 2
+          },
+          {
+            "productName": "Groundnut Oil",
+            "amount": 203,
+            "img": "ProductsSamples/groundnutoil.jpg",
+            "productId": 3
+          },
+          {
+            "productName": "Curry",
+            "amount": 430,
+            "img": "ProductsSamples/curry.jpg",
+            "productId": 4
+          }
+        ]
+      },
+      "categoryImg": "Products/Ingredients_Spices.jpg",
+      "categoryId": 3
+    },
+    {
+      "category": {
+        "title": "Beef/Meat",
+        "productsAvailable": [
+          {
+            "productName": "Beef",
+            "amount": 30,
+            "img": "ProductsSamples/beef.jpg",
+            "productId": 1
+          },
+          {
+            "productName": "Biscuit Bone",
+            "amount": 45,
+            "img": "ProductsSamples/biscuit.jpg",
+            "productId": 2
+          },
+          {
+            "productName": "Cow Skin(Pomo)",
+            "amount": 245,
+            "img": "ProductsSamples/pomo.jpg",
+            "productId": 3
+          },
+          {
+            "productName": "Shaki",
+            "amount": 145,
+            "img": "ProductsSamples/shaki.jpg",
+            "productId": 4
+          }
+        ]
+      },
+      "categoryImg": "Products/Beef_Meat.jpg",
+      "categoryId": 4
+    },
+    {
+      "category": {
+        "title": "Roots/Tubers",
+        "productsAvailable": [
+          {
+            "productName": "Yam",
+            "amount": 30,
+            "img": "ProductsSamples//Roots_Tubers/yam.jpg",
+            "productId": 1
+          },
+          {
+            "productName": "Coco Yam",
+            "amount": 25,
+            "img": "ProductsSamples/Roots_Tubers/cocoyam.jpg",
+            "productId": 2
+          },
+          {
+            "productName": "Cassava",
+            "amount": 12,
+            "img": "ProductsSamples/Roots_Tubers/cassava.jpg",
+            "productId": 3
+          }
+        ]
+      },
+      "categoryImg": "Products/roots_tubers.jpg",
+      "categoryId": 5
+    }
+  ]
+}
