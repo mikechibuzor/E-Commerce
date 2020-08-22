@@ -242,20 +242,28 @@ body {
 }
 .first-page .banner {
   height: 90vh;
-  /* border: 1px solid blue; */
+  border: 1px solid blue;
   grid-column: 1/3;
+  background: url("../Images/h.jpg");
+  background-position: center;
+  background-attachment: fixed;
   display: grid;
+  align-items: center;
+  justify-content: center;
   grid-template-columns: repeat(4, 1fr);
+  padding: 0 2rem;
 }
-.first-page .banner > * {
+/* .first-page .banner > * {
   /* border: 1px solid black; */
-}
+/* } */
 .first-page .banner .marketingText {
   grid-column: 1/2;
+  border: 1px solid black;
+  text-align: center;
 }
-.first-page .banner .carousel {
+/* .first-page .banner .carousel {
   grid-column: 2/5;
-}
+} */
 /* End of First Page Styling */
 
 /* Start of Categories Styling */
@@ -361,7 +369,7 @@ body {
   }
   .first-page .header .navbar .search-box {
     order: 3;
-    margin: 0 2rem;
+    /* margin: 0 2rem; */
   }
   .first-page .header .navbar .cart {
     position: absolute;
