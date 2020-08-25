@@ -20,9 +20,9 @@ body {
 .first-page .header {
   height: 10vh;
   grid-column: 1/3;
-  background: rgba(82, 70, 70, 0.6);
+  /* background: rgba(82, 70, 70, 0.6); */
+  background: lawngreen;
   display: flex;
-  /* background-color: wheat; */
   align-items: center;
   justify-content: space-between;
   padding: 0 3.6rem;
@@ -244,8 +244,9 @@ body {
   height: 90vh;
   border: 1px solid blue;
   grid-column: 1/3;
-  background: url("../Images/h.jpg");
+  background: url("../Images/davids-kokainis-6tdE9603W4Y-unsplash.jpg");
   background-position: center;
+  background-size: cover;
   background-attachment: fixed;
   display: grid;
   align-items: center;
@@ -253,18 +254,54 @@ body {
   grid-template-columns: repeat(4, 1fr);
   padding: 0 2rem;
 }
-/* .first-page .banner > * {
-  /* border: 1px solid black; */
-/* } */
 .first-page .banner .marketingText {
   grid-column: 1/2;
-  border: 1px solid black;
-  text-align: center;
+  border-left: 4px solid #eee;
+  border-radius: 0% 5% 5% 0%;
+
+  background: rgba(163, 187, 163, 0.2);
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50%;
 }
-/* .first-page .banner .carousel {
-  grid-column: 2/5;
-} */
-/* End of First Page Styling */
+.first-page .banner .marketingText h1 {
+  position: relative;
+  font-size: 650%;
+  padding-left: 1rem;
+  text-shadow: 0.5px 0.5px 0.5px white;
+}
+.first-page .banner .marketingText h1 .amin {
+  position: absolute;
+  top: 20%;
+  right: 25%;
+  font-size: 0.3em;
+  transform: rotateY(180deg);
+}
+.first-page .banner .marketingText h1::first-letter {
+  text-shadow: 2px 2px 2px chocolate;
+  font-size: 1.2em;
+}
+.first-page .banner .marketingText h3 {
+  text-align: center;
+  color: rgba(225, 225, 225, 0.77);
+  margin-left: 3.5rem;
+  padding-left: 1rem;
+  font-weight: bolder;
+}
+.first-page .banner .marketingText button {
+  height: 2.5rem;
+  cursor: pointer;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 110%;
+  transition: all 0.5s ease-in-out;
+  outline: 0;
+  border: 0;
+}
+.first-page .banner .marketingText button:hover {
+  color: white;
+  background-color: grey;
+}
 
 /* Start of Categories Styling */
 .categories {
@@ -369,7 +406,6 @@ body {
   }
   .first-page .header .navbar .search-box {
     order: 3;
-    /* margin: 0 2rem; */
   }
   .first-page .header .navbar .cart {
     position: absolute;
