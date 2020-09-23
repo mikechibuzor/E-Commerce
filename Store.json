@@ -6,48 +6,56 @@
         "productsAvailable": [
           {
             "productName": "Titus Fish",
+            "price": "1200",
             "amount": 30,
             "img": "ProductsSamples/titus.jpg",
             "productId": 1
           },
           {
             "productName": "Panla Fish",
+            "price": "700",
             "amount": 89,
             "img": "ProductsSamples/FrozenFoods/panla.jpg",
             "productId": 2
           },
           {
             "productName": "Sawa Fish",
+            "price": "500",
             "amount": 119,
             "img": "ProductsSamples/FrozenFoods/sawa.jpg",
             "productId": 3
           },
           {
             "productName": "Kote Fish",
+            "price": "900",
             "amount": 76,
             "img": "ProductsSamples/FrozenFoods/kote.jpg",
             "productId": 4
           },
           {
             "productName": "Croaker Fish",
+            "price": "1500",
             "amount": 36,
             "img": "ProductsSamples/FrozenFoods/croaker.jpg",
             "productId": 5
           },
           {
             "productName": "Cat Fish",
+            "price": "1950",
             "amount": 16,
             "img": "ProductsSamples/FrozenFoods/croaker.jpg",
             "productId": 6
           },
           {
             "productName": "Turkey",
+            "price": "1400",
             "amount": 36,
             "img": "ProductsSamples/FrozenFoods/turkey.jpg",
             "productId": 7
           },
           {
             "productName": "Chicken",
+            "price": "1300",
             "amount": 56,
             "img": "ProductsSamples/FrozenFoods/chicken.jpg",
             "productId": 8
@@ -63,18 +71,21 @@
         "productsAvailable": [
           {
             "productName": "Rice",
+            "price": "350",
             "amount": 66,
             "img": "ProductsSamples/Grains/rice.jpg",
             "productId": 1
           },
           {
             "productName": "Beans",
+            "price": "400",
             "amount": 82,
             "img": "ProductsSamples/Grains/beans.jpg",
             "productId": 2
           },
           {
             "productName": "Garri",
+            "price": "200",
             "amount": 122,
             "img": "ProductsSamples/Grains/garri.jpg",
             "productId": 3
@@ -90,24 +101,28 @@
         "productsAvailable": [
           {
             "productName": "Onions",
+            "price": "50",
             "amount": 330,
             "img": "ProductsSamples/onions.jpg",
             "productId": 1
           },
           {
             "productName": "Red Oil",
+            "price": "100",
             "amount": 230,
             "img": "ProductsSamples/redoil.jpg",
             "productId": 2
           },
           {
             "productName": "Groundnut Oil",
+            "price": "150",
             "amount": 203,
             "img": "ProductsSamples/groundnutoil.jpg",
             "productId": 3
           },
           {
             "productName": "Curry",
+            "price": "30",
             "amount": 430,
             "img": "ProductsSamples/curry.jpg",
             "productId": 4
@@ -123,24 +138,28 @@
         "productsAvailable": [
           {
             "productName": "Beef",
+            "price": "500",
             "amount": 30,
             "img": "ProductsSamples/beef.jpg",
             "productId": 1
           },
           {
             "productName": "Biscuit Bone",
+            "price": "300",
             "amount": 45,
             "img": "ProductsSamples/biscuit.jpg",
             "productId": 2
           },
           {
             "productName": "Cow Skin(Pomo)",
+            "price": "200",
             "amount": 245,
             "img": "ProductsSamples/pomo.jpg",
             "productId": 3
           },
           {
             "productName": "Shaki",
+            "price": "350",
             "amount": 145,
             "img": "ProductsSamples/shaki.jpg",
             "productId": 4
@@ -156,18 +175,21 @@
         "productsAvailable": [
           {
             "productName": "Yam",
+            "price": "300",
             "amount": 30,
             "img": "ProductsSamples//Roots_Tubers/yam.jpg",
             "productId": 1
           },
           {
             "productName": "Coco Yam",
+            "price": "250",
             "amount": 25,
             "img": "ProductsSamples/Roots_Tubers/cocoyam.jpg",
             "productId": 2
           },
           {
             "productName": "Cassava",
+            "price": "100",
             "amount": 12,
             "img": "ProductsSamples/Roots_Tubers/cassava.jpg",
             "productId": 3
